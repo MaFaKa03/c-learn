@@ -14,7 +14,7 @@ if(a>b)
     Console.WriteLine(max);
     Console.WriteLine(min);
 }  
-    if (a<b)
+else if (a<b)
        {
           max = b;
           min = a;
