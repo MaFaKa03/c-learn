@@ -11,16 +11,16 @@ if(a>b)
 {
     max = a;
     min = b;
-}
-    if (a<b) 
-   {
-        max = b;
-        min = a;
-   }
-
+    Console.WriteLine(max);
+    Console.WriteLine(min);
+}  
+    if (a<b)
+       {
+          max = b;
+          min = a;
+       
+        Console.WriteLine(max);
+        Console.WriteLine(min);
+       }
     else
-
-    Console.Write("числа равны");
-
-
-Console.Write(max, min);
+        Console.WriteLine("числа равны");    
