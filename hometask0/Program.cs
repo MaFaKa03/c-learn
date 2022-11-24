@@ -5,8 +5,22 @@ Console.WriteLine("введите второе число:");
 int b = int.Parse(Console.ReadLine());
 
 int max = a;
+int min = a;
 
-if(a>b) max=a;
-else max = b;
+if(a>b) 
+{
+    max = a;
+    min = b;
+}
+    if (a<b) 
+   {
+        max = b;
+        min = a;
+   }
 
-Console.Write(max);
+    else
+
+    Console.Write("числа равны");
+
+
+Console.Write(max, min);
