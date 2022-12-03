@@ -1,0 +1,15 @@
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/homework2.0.csproj.AssemblyReference.cache
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/homework2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/homework2.0.AssemblyInfoInputs.cache
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/homework2.0.AssemblyInfo.cs
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/homework2.0.csproj.CoreCompileInputs.cache
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/bin/Debug/net6.0/homework2.0
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/bin/Debug/net6.0/homework2.0.deps.json
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/bin/Debug/net6.0/homework2.0.runtimeconfig.json
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/bin/Debug/net6.0/homework2.0.dll
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/bin/Debug/net6.0/homework2.0.pdb
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/homework2.0.dll
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/refint/homework2.0.dll
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/homework2.0.pdb
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/homework2.0.genruntimeconfig.cache
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/homework2.0/obj/Debug/net6.0/ref/homework2.0.dll
