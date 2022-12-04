@@ -3,16 +3,16 @@
 //82 -> 10
 //9012 -> 12
 
-int num(int A)
+int Num(int A)
 
 {
     int count = 0;
-    while (A > 0);
+    while (A > 0)
     {
-        count = count + A%10;
-        A=A/10;
+        count = count + (A % 10);
+        A = A / 10;
     }
     return count;
 }
 
-num(int.Parse(Console.ReadLine()));
+Console.WriteLine(Num(int.Parse(Console.ReadLine())));
