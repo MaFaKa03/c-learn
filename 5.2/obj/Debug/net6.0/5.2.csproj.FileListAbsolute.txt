@@ -1,0 +1,15 @@
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/bin/Debug/net6.0/5.2
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/bin/Debug/net6.0/5.2.deps.json
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/bin/Debug/net6.0/5.2.runtimeconfig.json
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/bin/Debug/net6.0/5.2.dll
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/bin/Debug/net6.0/5.2.pdb
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/5.2.csproj.AssemblyReference.cache
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/5.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/5.2.AssemblyInfoInputs.cache
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/5.2.AssemblyInfo.cs
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/5.2.csproj.CoreCompileInputs.cache
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/5.2.dll
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/refint/5.2.dll
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/5.2.pdb
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/5.2.genruntimeconfig.cache
+/Users/mafaka03/Documents/семинар/seminar2/c-learn/5.2/obj/Debug/net6.0/ref/5.2.dll
