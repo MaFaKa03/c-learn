@@ -17,7 +17,7 @@ else if (Num < 100)
     }
 else
 {
-  Num = Num % 100;
-  Num = Num / 10; 
+  //Num = Num % 100;
+    Num = Num / 100; 
   Console.WriteLine(Num); 
 }
