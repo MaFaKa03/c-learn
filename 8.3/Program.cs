@@ -38,6 +38,7 @@ int[] MinEl(int[,] array)
                 indexes[0] = i;
                 indexes[1] = j;
             }
+            
     }
     Console.WriteLine(array[indexes[0], indexes[1]]);
     return indexes;
@@ -62,4 +63,4 @@ int[,] array_1 = Massiv(int.Parse(Console.ReadLine()),
                         int.Parse(Console.ReadLine()));
 Print(array_1);
 int[] array_2 = MinEl(array_1);
-WithoutRowColumn(array_2);
+WithoutRowColumn(array_1, array_2);
